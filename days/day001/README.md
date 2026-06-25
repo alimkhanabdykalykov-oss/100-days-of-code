@@ -1,1 +1,1 @@
-Built a straightforward, lightweight script to handle cross products for 3D vectors, including support for complex numbers.
+Built a straightforward, lightweight script to calculate cross products for 3D vectors. The implementation supports complex numbers, allowing for operations within a complex-valued 3D space. All logic is manual, original code.
