@@ -1,1 +1,1 @@
-
+Built a straightforward, lightweight script to calculate and visualize classical 2D ballistic trajectories. The implementation utilizes basic numerical integration mapping over cinematic parameters on flat ground without external air friction, calculating exact kinematic metrics like peak height, total ground range, and landing time frames.
