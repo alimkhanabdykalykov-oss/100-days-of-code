@@ -1,1 +1,1 @@
-
+Built a straightforward, lightweight tool to analytically solve first-order and second-order ordinary differential equations (ODEs) with constant coefficients. The implementation leverages SymPy to handle both homogeneous and non-homogeneous equations, supporting complex-valued roots, variable forcing functions, and explicit boundary parsing for initial value problems.
