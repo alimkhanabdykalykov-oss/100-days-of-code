@@ -1,1 +1,2 @@
-
+A lightweight, high-performance simulation designed to calculate and visualize a 3-body celestial system. The implementation utilizes basic numerical integration to map orbital trajectories over discrete timeframes, isolating how variations in fundamental physics impact orbital stability.
+The simulation evaluates 3-body dynamics under three distinct environmental configurations to observe systemic behavior when the universal gravitational constant deviates by exactly 30% below and above its baseline value
